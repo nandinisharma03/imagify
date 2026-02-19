@@ -37,7 +37,7 @@ export const assets = {
     credit_star,
     profile_icon,
     download_icon,
-    magic_icon: step_icon_2,
+    magic_icon: credit_star,
     hand_icon: profile_icon
 }
 
