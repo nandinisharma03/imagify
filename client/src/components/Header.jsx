@@ -23,7 +23,7 @@ const Header = () => {
       {/* Generate Button */}
       <button className='sm:text-lg text-white bg-black rounded-full py-3 px-8 mt-8 hover:bg-gray-800 transition flex items-center gap-2'>
         <span>Generate Images</span>
-        <img src={assets.star_icon} alt="star" className='w-5 h-5' />
+        <img src={assets.magic_icon} alt="magic" className='w-5 h-5' />
       </button>
 
       {/* Generated Images Row */}
