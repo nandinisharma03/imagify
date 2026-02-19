@@ -40,7 +40,7 @@ const Header = () => {
 
       {/* Generated Text */}
       <div className='flex items-center gap-2 mt-6'>
-        <img src={assets.hand_icon} alt="hand" className='w-6 h-6' />
+        <img src={assets.profile_icon} alt="hand" className='w-6 h-6' />
         <p className='text-gray-600'>Generated images from Imagify</p>
       </div>
     </div>
