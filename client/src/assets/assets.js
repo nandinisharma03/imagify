@@ -40,7 +40,6 @@ export const assets = {
     magic_icon: step_icon_2,
     hand_icon: profile_icon
 }
-}
 
 export const stepsData = [
     {
